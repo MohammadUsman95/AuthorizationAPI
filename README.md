@@ -41,7 +41,6 @@ Mohammad Usman
 Backend Developer | ASP.NET Core | Security & Authorization
 📍 Pakistan 🇵🇰
 
-🔗 LinkedIn: (add link)
+🔗 LinkedIn: LinkedIn: linkedin.com/in/mohammad-usman-buriro
 Role-Based Authorization
 
-Swagger / OpenAPI
